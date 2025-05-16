@@ -1,6 +1,6 @@
 # Setup
 title: Posts
-tagline: resonances
+tagline: digressions
 url: //wart.ca
 paginate: 1
 baseurl: ""
@@ -24,7 +24,7 @@ exclude:
 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 
 # Options
 
