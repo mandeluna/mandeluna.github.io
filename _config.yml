@@ -29,13 +29,12 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-ga_analytics: G-ZT5JF6PEP8
+# ga_analytics: G-ZT5JF6PEP8
 
 # Specify the author for blog posts
 author:
   name: Steve Wart
-  url: https://twitter.com/swartable
-  email: steve.wart@gmail.com
+  url: https://cosocial.ca/@swart
 
 # Custom vars
 version: 3.0.0
