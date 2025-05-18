@@ -3,7 +3,8 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 body {
-  font-family: "IBM Plex Serif", serif;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 200;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -11,7 +12,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
   color: var(--heading-color);
-  font-family: "IBM Plex Sans", sans-serif;
 }
 
 h1 {
